@@ -2,17 +2,17 @@
 <items>
     <item>
         <id>1</id>
-        <name>Item 1</name>
-        <description>This is the description for Item 1.</description>
+        <name>Iphone 14</name>
+        <description>₹67800.00</description>
     </item>
     <item>
         <id>2</id>
-        <name>Item 2</name>
-        <description>This is the description for Item 2.</description>
+        <name>Iphone 13</name>
+        <description>₹57900.00</description>
     </item>
     <item>
         <id>3</id>
-        <name>Item 3</name>
-        <description>This is the description for Item 3.</description>
+        <name>Iphone 12</name>
+        <description>₹47500.00</description>
     </item>
 </items>
